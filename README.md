@@ -2,18 +2,9 @@
 
 Un générateur de CV moderne développé avec Next.js, React, TypeScript et Tailwind CSS. L'application permet de remplir son profil professionnel, personnaliser l'apparence du CV, visualiser les changements en temps réel, sauvegarder les données localement et imprimer ou exporter le résultat en PDF via le navigateur.
 
-## Nom GitHub conseillé
+## À propos
 
-`nextjs-cv-builder`
-
-Ce nom est court, clair et optimisé pour la recherche GitHub/Google grâce aux mots-clés principaux : `Next.js`, `CV`, `Builder`, `Resume Builder`.
-
-Autres options possibles :
-
-- `cv-builder-nextjs`
-- `resume-cv-builder`
-- `modern-cv-builder`
-- `online-cv-generator`
+Next.js CV Builder est une application web qui permet de créer, personnaliser, prévisualiser, sauvegarder et exporter un CV professionnel directement depuis le navigateur.
 
 ## Fonctionnalités
 
