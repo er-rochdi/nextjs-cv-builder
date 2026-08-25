@@ -1,3 +1,0 @@
-module.exports=[27572,a=>{"use strict";var b=a.i(7997);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"fr",className:"h-full antialiased",children:(0,b.jsx)("body",{className:"min-h-full flex flex-col",children:a})})},"metadata",0,{title:"CV Builder — John Doe",description:"CV Builder interactif avec édition et aperçu en temps réel"}])},50645,function(a){a.n(a.i(27572))}];
-
-//# sourceMappingURL=src_app_layout_tsx_0r5yz5t._.js.map

@@ -54,4 +54,10 @@ export const TEMPLATES: CvTemplateInfo[] = [
     label: "Élégant",
     description: "En-tête centré, typographie serif raffinée.",
   },
+  {
+    id: "ats",
+    label: "ATS",
+    description:
+      "Colonne unique, texte brut, sans photo : lisible par les logiciels de recrutement.",
+  },
 ];

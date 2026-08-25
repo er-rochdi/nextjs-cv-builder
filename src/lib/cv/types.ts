@@ -42,7 +42,7 @@ export interface Certification {
 }
 
 /** Available CV layouts. */
-export type TemplateId = "classic" | "modern" | "elegant";
+export type TemplateId = "classic" | "modern" | "elegant" | "ats";
 
 export interface Links {
   linkedin: string;

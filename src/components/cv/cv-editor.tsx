@@ -48,7 +48,7 @@ export function CvEditor() {
           <span className="mb-1.5 block text-xs font-semibold uppercase tracking-wide text-slate-500">
             Modèle de CV
           </span>
-          <div className="grid grid-cols-3 gap-2">
+          <div className="grid grid-cols-2 gap-2">
             {TEMPLATES.map((tpl) => {
               const selected = draft.template === tpl.id;
               return (

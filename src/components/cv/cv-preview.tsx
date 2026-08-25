@@ -12,6 +12,7 @@ import { accentStyle, type TemplateProps } from "./templates/shared";
 import { ClassicTemplate } from "./templates/classic-template";
 import { ModernTemplate } from "./templates/modern-template";
 import { ElegantTemplate } from "./templates/elegant-template";
+import { AtsTemplate } from "./templates/ats-template";
 
 const TEMPLATES: Record<
   CvData["template"],
@@ -20,6 +21,7 @@ const TEMPLATES: Record<
   classic: ClassicTemplate,
   modern: ModernTemplate,
   elegant: ElegantTemplate,
+  ats: AtsTemplate,
 };
 
 export function CvPreview({ cv }: { cv: CvData }) {
